@@ -1,0 +1,15 @@
+# Minecraft server files
+world/
+world_nether/
+world_the_end/
+logs/
+plugins/*/config.yml
+*.log
+
+# Private files
+*.properties
+*.json
+.env
+
+# Backups
+backups/
